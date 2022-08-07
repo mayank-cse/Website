@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAS0b83n6EakeTLJg/nMaNMAAAAAACAAAAAAAQZgAAAAEAACAAAACr8/C323V7AnXI9swPeYwBfU7d5BEWTIu54mRw4P3fmQAAAAAOgAAAAAIAACAAAAC7DBobFyVl3e/Y6AgKCe71XXNbbsAnZt6/Z4gERU6eE4AAAABKqBGBkgPTG+BpmuKDGSvojSeGMP/Ri8EfaHs5mNZ7MFtTkblr4bX9qnw0Kqqvn5FLlzFmQMfrZmJgDGtolK00hV5Uq1oafDkYfagMwDB0Y3sRZxriyQB1aSH8OKcMUO+qk2DtSXAqu+kVGEsJr2IHZCEQz1/vslsXGtBOOoT8BUAAAADvoaB34rFWYow9jOCI9sufOWY+EYfV7Acc5BeQLE6BCphJ6q+XY4Vo33BWbC1e3+db+EVYiFdRfGBGbS3B+s6D</EncryptedPassword>
+    <_PublishTargetUrl>ftp://waws-prod-dm1-301.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Assets/Assignment2.exe">
+      <publishTime>06/01/2016 21:02:00</publishTime>
+    </File>
+    <File Include="Assets/images/asp-net.png">
+      <publishTime>06/01/2016 21:02:00</publishTime>
+    </File>
+    <File Include="Assets/images/buildings.jpeg">
+      <publishTime>06/01/2016 21:02:00</publishTime>
+    </File>
+    <File Include="Assets/images/chairs.jpg">
+      <publishTime>06/01/2016 21:02:00</publishTime>
+    </File>
+    <File Include="Assets/images/cms.png">
+      <publishTime>06/01/2016 21:02:00</publishTime>
+    </File>
+    <File Include="Assets/images/java-project.png">
+      <publishTime>06/01/2016 21:02:00</publishTime>
+    </File>
+    <File Include="Assets/images/manage-support.png">
+      <publishTime>06/01/2016 21:02:00</publishTime>
+    </File>
+    <File Include="Assets/images/mean.png">
+      <publishTime>06/01/2016 21:02:00</publishTime>
+    </File>
+    <File Include="Assets/images/node-portfolio.png">
+      <publishTime>06/01/2016 21:02:00</publishTime>
+    </File>
+    <File Include="Assets/images/Octocat.png">
+      <publishTime>06/01/2016 21:02:00</publishTime>
+    </File>
+    <File Include="Assets/images/oop.png">
+      <publishTime>06/01/2016 21:02:00</publishTime>
+    </File>
+    <File Include="Assets/images/profile-pic-600.png">
+      <publishTime>06/01/2016 21:02:00</publishTime>
+    </File>
+    <File Include="Assets/images/programming-is-fun.png">
+      <publishTime>06/01/2016 21:02:00</publishTime>
+    </File>
+    <File Include="Assets/images/rockywall.png">
+      <publishTime>06/01/2016 21:02:00</publishTime>
+    </File>
+    <File Include="Assets/images/secure.png">
+      <publishTime>06/01/2016 21:02:00</publishTime>
+    </File>
+    <File Include="Assets/images/twitter-newsfeeder.png">
+      <publishTime>06/01/2016 21:02:00</publishTime>
+    </File>
+    <File Include="Assets/images/youtube-downloader.png">
+      <publishTime>06/01/2016 21:02:00</publishTime>
+    </File>
+    <File Include="Assets/YoutubeDownloader.exe">
+      <publishTime>06/01/2016 21:02:00</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
